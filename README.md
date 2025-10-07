@@ -86,7 +86,6 @@ Peso total do carro: 540 kg
 - adicionar Main com simulação e cálculo do peso
 - documentar prompts e ajustes da IA
 - adicionar README com explicações e instruções
-  Claro, Tomás! Aqui está o `README.md` completo e bem estruturado para a **questão do carro com padrão Composite**, seguindo o modelo que você indicou:
 
 ---
 
